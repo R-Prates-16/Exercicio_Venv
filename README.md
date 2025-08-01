@@ -1,7 +1,6 @@
 Exercícios de consumo de API, uso de venv, .env, uso .gitignore (ignorar arquivos venv)
 
-```markdown
-# 💸 Projeto: Cotação de Moedas com API
+```m# 💸 Projeto: Cotação de Moedas com API
 
 Este é um projeto simples em **Python** para consultar a cotação de moedas estrangeiras em tempo real usando a **ExchangeRate API**. Ele aplica boas práticas como uso de ambiente virtual (`venv`), variáveis de ambiente (`.env`), dependências (`requirements.txt`) e versionamento com Git e GitHub.
 
@@ -33,7 +32,6 @@ Este é um projeto simples em **Python** para consultar a cotação de moedas es
 ```bash
 git clone https://github.com/seu-usuario/cotacao_api.git
 cd cotacao_api
-```
 
 ### 2. Crie e ative o ambiente virtual
 
